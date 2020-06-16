@@ -1,0 +1,1 @@
+This project is a workspace for bringing deflate and gzip to ZIO. RFC 1950, 1951, 1952.
